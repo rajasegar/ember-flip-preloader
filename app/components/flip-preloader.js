@@ -1,0 +1,1 @@
+export { default } from 'ember-flip-preloader/components/flip-preloader';

@@ -2,6 +2,8 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+Inspired by this [Codepen](https://codepen.io/animatedcreativity/pen/wqmoEw)
+
 ## Installation
 
 * `git clone <repository-url>` this repository

@@ -1,5 +1,17 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
-
-{{outlet}}
+<h1>ember-flip-preloader</h1>
+<nav>
+  <ul>
+    <li>
+      {{#link-to 'index'}}Normal{{/link-to}}
+    </li>
+    <li>
+      {{#link-to 'large'}}Large{{/link-to}}
+    </li>
+    <li>
+      {{#link-to 'small'}}Small{{/link-to}}
+    </li>
+  </ul>
+</nav>
+<div class="holder">
+  {{outlet}}
+</div>
