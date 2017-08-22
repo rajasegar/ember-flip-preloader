@@ -1,15 +1,33 @@
 # ember-flip-preloader
 
+[![Build Status](https://travis-ci.org/rajasegar/ember-flip-preloader.svg?branch=master)](https://travis-ci.org/rajasegar/ember-flip-preloader) 
+[![npm](https://img.shields.io/npm/dm/ember-flip-preloader.svg)](https://www.npmjs.com/package/ember-flip-preloader)
+[![npm version](http://img.shields.io/npm/v/ember-flip-preloader.svg?style=flat)](https://npmjs.org/package/ember-flip-preloader "View this project on npm")
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![EmberObserver](http://emberobserver.com/badges/ember-flip-preloader.svg?branch=master)](http://emberobserver.com/addons/ember-flip-preloader)
+
+
 This README outlines the details of collaborating on this Ember addon.
 
 Inspired by this [Codepen](https://codepen.io/animatedcreativity/pen/wqmoEw)
 
-## Installation
+## Demo
+[Demo](https://rajasegar.github.io/ember-flip-preloader/)
 
-* `git clone <repository-url>` this repository
-* `cd ember-flip-preloader`
-* `npm install`
-* `bower install`
+## Installation
+```shell
+ember install ember-flip-preloader
+```
+
+## Usage
+```hbs
+{{flip-preloader}}
+{{flip-preloader size="large"}}
+{{flip-preloader size="small"}}
+```
+
+
+
 
 ## Running
 
