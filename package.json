@@ -1,6 +1,6 @@
 {
   "name": "ember-flip-preloader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An ember addon which gives you an animated flip preloader.",
   "keywords": [
     "ember-addon",
