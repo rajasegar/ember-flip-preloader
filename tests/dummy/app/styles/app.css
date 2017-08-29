@@ -19,3 +19,25 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
 }
+
+/*
+:root {
+    --box1-bg: red;
+    --box2-bg: green;
+    --box3-bg: blue;
+    --box4-bg: orange;
+    --box5-bg: magenta;
+}
+*/
+
+.holder {
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #EBE5DF;
+    min-height: 400px;
+}

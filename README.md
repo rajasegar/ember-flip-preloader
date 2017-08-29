@@ -6,8 +6,7 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![EmberObserver](http://emberobserver.com/badges/ember-flip-preloader.svg?branch=master)](http://emberobserver.com/addons/ember-flip-preloader)
 
-
-This README outlines the details of collaborating on this Ember addon.
+An ember addon which gives you an animated flip preloader
 
 Inspired by this [Codepen](https://codepen.io/animatedcreativity/pen/wqmoEw)
 
